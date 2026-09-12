@@ -1,5 +1,9 @@
 # L20-Edu-135M
 
+> Part of [Pretraining Lab](https://github.com/yinli-systems/pretraining-lab),
+> an evidence-first collection of from-scratch language models trained on one
+> NVIDIA L20.
+
 An auditable single-GPU study of data-efficient 135M language-model training.
 The project trains a Llama-style decoder model from scratch, continues it on a
 strictly filtered Stage 4 mixture, evaluates public baselines under the same
